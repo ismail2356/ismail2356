@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm İsmail Topal | AI Engineer & Builder of Intelligent Systems 🚀
+# 👋 Hi, I'm İsmail | AI Engineer & Builder of Intelligent Systems 🚀
 
 A recently graduated Software Engineer specializing in building **end-to-end intelligent systems**. My passion is transforming complex problems into practical, scalable solutions using AI.
 
